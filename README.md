@@ -25,7 +25,7 @@ EmailSendApi is a Spring Boot application for sending emails, including support 
 
 ## Getting Started
 1. Clone the repository:
-   git clone https://github.com/your-username/EmailSendApi.git
+   git clone https://github.com/Ajit1702/EmailSendApi.git
    cd EmailSendApi
 
 2. Build the project:
@@ -52,6 +52,7 @@ Visit `http://localhost:8080/test` in your browser or use tools like curl or Pos
 
 ### Send Simple Email
 Use the `/sendEmail` endpoint with a POST request and provide the necessary JSON payload:
+
 {
   "to": "recipient@example.com",
   "subject": "Hello",
