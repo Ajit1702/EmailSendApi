@@ -1,4 +1,3 @@
-Certainly! Below is a simple template for a README.md file for your "EmailSendApi" project on GitHub. You can customize it further based on the specific details of your project.
 # EmailSendApi
 EmailSendApi is a Spring Boot application for sending emails, including support for attachments. It provides RESTful endpoints for sending both simple and attachment-containing emails.
 
